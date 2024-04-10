@@ -6,10 +6,10 @@ TagManager:
   tags:
   - Speed++
   - Speed--
-  - Coin
   - CheckPoint
   - Falling Platform
   - CheckPoint2
+  - WinCanvas
   layers:
   - Default
   - TransparentFX
